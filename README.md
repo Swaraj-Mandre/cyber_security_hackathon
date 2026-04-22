@@ -329,23 +329,5 @@ NEXT_PUBLIC_API_URL        # Frontend API base URL (optional)
 
 MIT License - See LICENSE file for details
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📞 Support
-
-For issues and questions:
-1. Check the troubleshooting section
-2. Review API documentation
-3. Open an issue on GitHub
-
 ---
-
-**System Status**: ✅ Production Ready  
 **Last Updated**: November 2024  
-**Version**: 1.0.0
